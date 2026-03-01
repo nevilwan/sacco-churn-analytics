@@ -10,8 +10,6 @@ A research-quality framework for running controlled experiments and predictive a
 
 ## Executive Summary
 
-Here's a tighter, Kenya-focused version:
-
 ---
 
 In Kenya, SACCOs are woven into everyday financial life, from Nairobi's matatu workers pooling savings to tea farmers in Kisii accessing credit they'd never get from a bank. But when members leave, the whole model weakens: loan funds dry up, costs rise, and the most vulnerable members lose their lifeline. This system helps Kenyan SACCOs understand *why* members leave and act before they do, protecting the institutions that millions of ordinary Kenyans depend on.
