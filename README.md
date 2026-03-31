@@ -8,7 +8,7 @@ A research-quality framework for running controlled experiments and predictive a
 
 ---
 
-## Executive Summary
+## Summary
 
 ---
 
